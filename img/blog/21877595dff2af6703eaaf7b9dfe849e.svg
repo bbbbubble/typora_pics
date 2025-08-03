@@ -1,0 +1,18 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="2.022ex" height="2.509ex" style="vertical-align: -0.338ex;" viewBox="0 -934.9 870.5 1080.4" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" aria-labelledby="MathJax-SVG-1-Title">
+<title id="MathJax-SVG-1-Title">Equation</title>
+<defs aria-hidden="true">
+<path stroke-width="1" id="E1-MJMAINB-54" d="M41 425Q41 426 51 545T62 669V675H737V669Q738 665 748 546T758 425V419H696V425Q687 517 669 555T595 607Q578 612 522 613H478V62H631V0H615Q585 3 399 3Q214 3 184 0H168V62H321V613H277H263Q164 613 134 561Q113 527 103 425V419H41V425Z"></path>
+<path stroke-width="1" id="E1-MJMAIN-2C9" d="M69 544V590H430V544H69Z"></path>
+<path stroke-width="1" id="E1-MJMAIN-AF" d="M69 544V590H430V544H69Z"></path>
+</defs>
+<g stroke="currentColor" fill="currentColor" stroke-width="0" transform="matrix(1 0 0 -1 0 0)" aria-hidden="true">
+ <use xlink:href="#E1-MJMAINB-54" x="35" y="0"></use>
+<g transform="translate(0,240)">
+ <use xlink:href="#E1-MJMAIN-AF" x="-70" y="0"></use>
+<g transform="translate(345.8871191135734,0) scale(0.21745152354570638,1)">
+ <use xlink:href="#E1-MJMAIN-AF"></use>
+</g>
+ <use xlink:href="#E1-MJMAIN-AF" x="370" y="0"></use>
+</g>
+</g>
+</svg>
